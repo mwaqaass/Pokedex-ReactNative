@@ -4,7 +4,8 @@ Pokemon Description
 Download expo and also download native-base in your project directory using CMD
 Project contains all the description of Pokemon 
 
-Front 
+<b>Front<b> 
+
 ![1](https://user-images.githubusercontent.com/33598165/53964544-610cf780-4111-11e9-878a-4d3861863d86.png)
 Searching
 ![4](https://user-images.githubusercontent.com/33598165/53964548-61a58e00-4111-11e9-9c42-55f56b2e763b.png)
